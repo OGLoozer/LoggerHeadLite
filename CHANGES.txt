@@ -1,0 +1,18 @@
+tag a33cf34531b2e521296a0c37d134755f8a5498d8 1.6.5
+Author:	Kyle Buller <bullerk@gmail.com>
+Date:	Thu Dec 7 14:43:09 2023 -0600
+
+Tagging as 1.6.5
+
+commit 80d437f4b6269ed4abc788dd2701884f17d6b718
+Author: Kyle Buller <bullerk@gmail.com>
+Date:   Thu Dec 7 14:42:41 2023 -0600
+
+    Bump TOCs
+
+commit 8554d1e7a0ddb3950f221a98d6084e8f0bf586b6
+Author: Andrey Ruíz <davkorss@gmail.com>
+Date:   Thu Dec 7 15:40:59 2023 -0500
+
+    Add support for Classic Era Season of Discovery (#4)
+
